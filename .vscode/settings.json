@@ -1,0 +1,9 @@
+{
+    
+    "objectscript.conn" :{
+      "ns": "PYTHON",
+      "active": true,
+      "server": "default~iris"
+    }
+
+}
